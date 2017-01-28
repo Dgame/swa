@@ -1,0 +1,16 @@
+{
+    "require": {
+        "php": ">=7.0",
+        "dgame/php-wrapper": "dev-master",
+        "dgame/php-type": "dev-master",
+        "dgame/php-optional": "@dev",
+        "slim/slim": "2.6.*"
+    },
+    "autoload": {
+        "files": [
+        ],
+        "psr-4": {
+            "Swa\\": "protected/"
+        }
+    }
+}
